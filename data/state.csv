@@ -1,0 +1,37 @@
+state                   | object|dataset|desription
+act_part_pct_2018       | float64|ACT2018|ACT Participation Percentage 2018
+act_composite_2018      | float64|ACT2018|ACT Composite Score 2018
+sat_part_pct_2018       | float64|SAT2018|SAT Participation Percentage 2018
+sat_verbal_2018         | int64|SAT2018|SAT Verbal Score 2018
+sat_math_2018           | int64|SAT2018|SAT Math Score 2018
+act_part_pct_2017       | float64|ACT2017|ACT Participation Percentage 2017
+act_english_2017        | float64|ACT2017|ACT English Score 2017
+act_math_2017           | float64|ACT2017|ACT Math Score 2017
+act_reading_2017        | float64|ACT2017|ACT Reading Score 2017
+act_science_2017        | float64|ACT2017|ACT Science Score 2017
+act_composite_2017      | float64|ACT2017|ACT Composite Score 2017
+sat_part_pct_2017       | float64|SAT2017|SAT Participation Percentage 2017
+sat_verbal_2017         | int64|SAT2017|SAT Verbal Score 2017
+sat_math_2017           | int64|SAT2017|SAT Math Score 2017
+sat_total_2017          | int64|SAT2017|SAT Total Score 2017
+sat_total_2018          | int64|SAT2018|SAT Total Score 2018
+n_act_part_pct_2018     | float64|computed|Normalized Data
+n_act_composite_2018    | float64|computed|Normalized Data
+n_sat_part_pct_2018     | float64|computed|Normalized Data
+n_sat_verbal_2018       | float64|computed|Normalized Data
+n_sat_math_2018         | float64|computed|Normalized Data
+n_act_part_pct_2017     | float64|computed|Normalized Data
+n_act_english_2017      | float64|computed|Normalized Data
+n_act_math_2017         | float64|computed|Normalized Data
+n_act_reading_2017      | float64|computed|Normalized Data
+n_act_science_2017      | float64|computed|Normalized Data
+n_act_composite_2017    | float64|computed|Normalized Data
+n_sat_part_pct_2017     | float64|computed|Normalized Data
+n_sat_verbal_2017       | float64|computed|Normalized Data
+n_sat_math_2017         | float64|computed|Normalized Data
+n_sat_total_2017        | float64|computed|Normalized Data
+n_sat_total_2018        | float64|computed|Normalized Data
+gdp                     | int64|GDP|Gross Domestic Product 2017
+pci                     | int64|PCI|Per Capita Income 2017
+n_gdp                   | float64|computed|Normalized Data
+n_pci                   | float64|computed|Normalized Data
